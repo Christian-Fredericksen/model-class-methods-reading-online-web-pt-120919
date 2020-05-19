@@ -26,7 +26,7 @@ filtering:
 
 ```erb
 <!-- app/views/posts/index.html.erb -->
-
+ 
 <h1>Believe It Or Not I'm Blogging On Air</h1>
 
 <!-- add this new code above the @posts.each loop -->
